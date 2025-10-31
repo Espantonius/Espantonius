@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Espan!</h1>
 <p align="left">Desarrollando aplicaciones y servicios relacionados con el gaming y los e-sports 🎮</p>
 
-![banner espan](https://yt3.googleusercontent.com/m5TpVI8C2yeWSV8iu-RiClluLWVZFIgLXKAMw9qTzuRywMBIU4UABS5S_e7ohw6UIVJo-eyuKtE=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
+![banner espan](https://yt3.googleusercontent.com/1yzfI_LcIIQy_uPPQggDXu4jlqE9tC4xgvNyD5oAGct68wAjJ6BcjQr8rp5YMFZW5yXZcUAi=w1707-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
 <h3 align="left">Proyectos en los que estoy actualmente:</h3>
 
