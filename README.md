@@ -5,8 +5,7 @@
 
 <h3 align="left">Proyectos en los que estoy actualmente:</h3>
 
- - 🟠 [MPG.gg](https://mpg.gg)
- - 🟠 [MPGaming.pro](https://www.mpgaming.pro)
+ - 🟠 [unigamity.com](https://www.unigamity.com)
 
 <h3 align="left">Encuentrame en:</h3>
 <p align="left">
